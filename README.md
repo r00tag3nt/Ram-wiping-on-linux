@@ -40,7 +40,7 @@ That's mean it available else just create new one
 
 # Installation
 - sudo su
-- git clone https://github.com/t7hm1/Ram-wiping-on-linux.git && cp Ram-wiping-on-linux/start-ram-wiping.sh /usr/bin/start-ram-wiping && cp Ram-wiping-on-linux/stop-ram-wiping.sh /usr/bin/stop-ram-wiping
+- git clone https://github.com/r00tag3nt/Ram-wiping-on-linux.git && cp Ram-wiping-on-linux/start-ram-wiping.sh /usr/bin/start-ram-wiping && cp Ram-wiping-on-linux/stop-ram-wiping.sh /usr/bin/stop-ram-wiping
 - chmod +x /usr/bin/start-ram-wiping && chmod +x /usr/bin/stop-ram-wiping
 - sudo start-ram-wiping
 
